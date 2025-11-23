@@ -1,0 +1,8 @@
+{
+  "name": "Jessepunk Legends",
+  "icon": "/images/icon.png",
+  "description": "Mint Jessepunk NFTs inside Warpcast or on the web.",
+  "frames": [
+    "/api/frame"
+  ]
+}
