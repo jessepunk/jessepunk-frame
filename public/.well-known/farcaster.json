@@ -1,8 +1,8 @@
 {
   "name": "Jessepunk Legends",
-  "icon": "/images/icon.png",
-  "description": "Mint Jessepunk NFTs inside Warpcast or on the web.",
-  "frames": [
-    "/api/frame"
-  ]
+  "icon": "https://jessepunk-frame.vercel.app/icon.png",
+  "description": "Mint Jessepunk NFTs on Base",
+  "website": "https://jessepunk-frame.vercel.app",
+  "app_url": "https://jessepunk-frame.vercel.app/api/frame",
+  "callback_url": "https://jessepunk-frame.vercel.app/api/frame"
 }
